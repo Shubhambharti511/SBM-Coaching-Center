@@ -1,0 +1,54 @@
+body {
+            margin: 20;
+            font-family: Arial, sans-serif;
+            background: #c64242;
+        }
+
+        header {
+            background: #1e88e5;
+            color: rgb(228, 244, 249);
+            padding: 25px;
+            text-align: center;
+        }
+
+        nav {
+            background: #1565c0;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #f1f0eb;
+            margin: 100px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .hero {
+            padding: 200px;
+            text-align: right;
+            background: url('Picsart_25-11-23_16-21-59-153.jpg') no-repeat center;
+            background-size: cover;
+            width: 73.3%;
+            height: 100%;
+        }
+
+        .hero h1 {
+            color: #e0f876;
+        }
+
+        .section {
+            padding: 30px;
+            margin: 20px;
+            background: white;
+            border-radius: 6px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+
+     footer {
+            text-align: center;
+            background: #0d47a1;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+        }
